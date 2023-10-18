@@ -2,8 +2,8 @@ def main():
 
     original_str = 'Python Programming'
     secondP= original_str.find('P',1)
-    sub1 = original_str[secondP:]
-    sub2 = original_str[:secondP-1]
+    sub2 = original_str[secondP:]
+    sub1 = original_str[:secondP-1]
     
     # sub1 = original_str [7:]
     # sub2 = original_str [:6]
